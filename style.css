@@ -1,0 +1,57 @@
+H1 {color:darkred;}
+H2 {color:darkred;}
+
+h1{
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+}
+h2{
+	color: royalblue;
+	font-family: 'Nunito', sans-serif;
+}
+h3, h4, h5 {
+	color: mediumseagreen;
+font-family: 'Nunito', sans-serif;
+
+}
+body{
+font-family: 'IBM Plex Serif', serif;
+	background-color: cadetblue;
+}
+div{
+	background-color: whitesmoke;
+	text-align: center;
+	padding: 24px;
+	width: 70%;
+	margin: 16px auto;
+	border-radius: 6px;
+	box-shadow: 1px 1px 5px 2px  #000000b5;
+
+}
+#rim{
+	width: !1000px;
+	border-radius: 100%;
+	border:  5px solid black;
+	object-fit: cover;
+}
+a {
+	text-decoration: none;
+}
+.lolita {
+	background-color: cadetblue;
+	color: whitesmoke;
+	padding: 5px 18px;
+	border-radius: 30px;
+	font-weight: bolder;
+	display: block;
+	width: 20%;
+	margin: 0 auto;
+	border: 1px black;
+	transition: 1s;
+}
+
+
+}
+
+}
